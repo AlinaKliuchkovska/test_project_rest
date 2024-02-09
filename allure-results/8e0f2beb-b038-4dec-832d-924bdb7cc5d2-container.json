@@ -1,0 +1,1 @@
+{"uuid":"8e0f2beb-b038-4dec-832d-924bdb7cc5d2","name":"deleteplayer.DeletePlayerNegativeTests","children":["2fdf5733-45fd-4b2e-b32d-74991894e859"],"befores":[{"name":"before","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1707297554771,"stop":1707297554778}],"afters":[],"start":1707297554723,"stop":1707297557645}
